@@ -1,3 +1,8 @@
+# Files that shouldn't be in github
+pipefy_api_key.txt
+organization_id.txt
+prettyfy.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
